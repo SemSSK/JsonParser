@@ -1,4 +1,5 @@
-module MyLib (someFunc) where
+module Hson (someFunc) where
+
 
 someFunc :: IO ()
 someFunc = putStrLn "someFunc"
